@@ -1,3 +1,4 @@
+# rascunho
 print("Fibo")
 numero_termos = int(input("Entre com o numero de termos:"))
 a = 0
